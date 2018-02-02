@@ -6,7 +6,7 @@ routes
 .add('shows')
 .add('comedians')
 .add('venues')
-.add('calendar-day', '/calendar/day/:date', 'day')
+.add('calendar-day', '/calendar/day/:year-:month-:day', 'day')
 .add('show', '/shows/:id', 'show')
 .add('comedian', '/comedians/:id', 'comedian')
 .add('venue', '/venues/:id', 'venue')

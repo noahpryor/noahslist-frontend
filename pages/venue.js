@@ -6,6 +6,6 @@ export default class extends React.Component {
   }
 
   render() {
-    return <Page>Venue: {this.props.id}</Page>
+    return <Page>{this.props.id}</Page>
   }
 }
