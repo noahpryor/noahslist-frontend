@@ -1,0 +1,61 @@
+{
+    "standupny": {
+        "id": "standupny",
+        "name": "Standup NY",
+        "address": {
+            "lineOne": "236 W 78th st",
+            "zip": 10024,
+            "city": "New York",
+            "state": "New York"
+        },
+        "coordinates": {
+            "latitude": 40.782786,
+            "longitude": -73.980187
+        },
+        "url": "https://standupny.com"
+    },
+    "comedycellar": {
+        "name": "Comedy Cellar",
+        "address": {
+            "lineOne": "117 MacDougal Street",
+            "lineTwo": "Between W 3rd St. & Minetta Lane",
+            "zip": 10012,
+            "city": "New York",
+            "state": "New York"
+        },
+        "coordinates": {
+            "latitude": 40.73019740000001,
+            "longitude": -74.00056970000003
+        },
+        "url": "http://www.comedycellar.com/"
+    },
+    "villageunderground": {
+        "name": "Village Underground",
+        "address": {
+            "lineOne": "130 W. 3rd Street",
+            "lineTwo": "6th and MacDougal",
+            "zip": 10012,
+            "city": "New York",
+            "state": "New York"
+        },
+        "coordinates": {
+            "latitude": 40.7306227,
+            "longitude": -74.00092740000002
+        },
+        "url": "http://www.comedycellar.com/"
+    },
+    "gotham": {
+        "name": "Gotham Comedy Club",
+        "address": {
+            "lineOne": "208 W 23rd St",
+            "zip": 10021,
+            "city": "New York",
+            "state": "New York"
+        },
+        "coordinates": {
+            "latitude": 40.7441081,
+            "longitude": -73.99641780000002
+        },
+        "url": "http://www.gothamcomedyclub.com/"
+    }
+}
